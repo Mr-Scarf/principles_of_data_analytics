@@ -10,7 +10,11 @@ Reference for layout of Readme - https://medium.com/@kc_clintone/the-ultimate-gu
 
 ## Purpose
 
+This is an anlysis of the famous Iris dataset by the British biologist Ronald Fisher
 To complete a set of 10 tasks for the module 'Principles of Data Analytics' - Class of January 2025
+
+
+
 See task headings below:
 
 ######## to do 26th April Expand with info per each task/ screenshots if needed ########
