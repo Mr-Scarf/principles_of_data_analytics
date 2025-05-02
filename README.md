@@ -20,15 +20,34 @@ See task headings below:
 ######## to do 26th April Expand with info per each task/ screenshots if needed ########
 
 1.  Source the Data Set
+The Iris dataset is loaded using `sklearn.datasets.load_iris()` and converted into a pandas DataFrame. A comparsion between the raw dataset from sklearn vs converted pandas DataFrame
+
 2.  Explore the Data Structure
+Initial inspection includes checking data types, size, and a preview of the dataset using `df` and `.info()`.
+
 3.  Summarize the Data
+Descriptive statistics (mean,min,max,standard deviation,median) are generated using `.describe()`
+
 4.  Visualize Features
+Used `matplotlib` to create histogramsto understand the distribution of each feature.
+
 5.  Investigate Relationships
+Created a scatter plot of two features to show relationship between 'petal length (cm)' & 'petal width (cm)'
+
 6.  Analyze Relationship
+Use numpy.polyfit to add a regression line to the scatter plot of 'petal length (cm)' & 'petal width (cm)'
+
 7.  Analyze Class Distributions
+Create box-plots of the petal lengths for each of the three classes using color-coded plots.
+
 8.  Compute Correlations
+Calculate the correlation coefficients between the features & displayed the results as a heatmap using matplotlib.
+
 9.  Fit a Simple Linear Regression
+Calculated the coefficient of determination r² & fitted it to a scatter plot
+
 10. Too Many Features
+Used seaborn to create a pairplot of the data set & discuss what the pairplot depicts.
 
 ## Repositary Contents
 
