@@ -1,9 +1,9 @@
 # Principles of Data Analytics - Iris Flower Analysis
 
-**Author**: David Scally
-**University**: Atlantic Technological University
-**Module**: Principles of Data Analytics
-**Class**: January 2025
+**Author**: David Scally  
+**University**: Atlantic Technological University  
+**Module**: Principles of Data Analytics  
+**Class**: January 2025  
 
 
 ## Purpose
@@ -75,8 +75,3 @@ pip install -r requirements.txt
 - [GeeksforGeeks: Iris Dataset Overview](https://www.geeksforgeeks.org/iris-dataset/)
 - [Curran's Gist: Iris Dataset Visualization](https://gist.github.com/curran/a08a1080b88344b0c8a7)
 
-
-
-
-remove
-Reference for layout of Readme - https://medium.com/@kc_clintone/the-ultimate-guide-to-writing-a-great-readme-md-for-your-project-3d49c2023357
