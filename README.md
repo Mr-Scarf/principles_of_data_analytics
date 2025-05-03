@@ -1,3 +1,6 @@
+
+
+
 # Principles of Data Analytics - Iris Flower Analysis
 
 **Author**: David Scally  
@@ -5,10 +8,13 @@
 **Module**: Principles of Data Analytics  
 **Class**: January 2025  
 
+## Iris Flowers
+![Iris Flowers](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png)
+
 
 ## Purpose
 
-This is an analysis of the famous Iris dataset by the British biologist Ronald Fisher. The Iris dataset is a great entry-level dataset that allows us to explore relationships between features of iris flowers and practice fundamental data analysis techniques.
+This is an analysis of the famous Iris dataset by the British biologist Ronald Fisher. The Iris dataset is a great entry-level dataset that allows us to explore relationships between features of iris flowers and practice data analysis techniques.
 This will be accomplished by completing a set of 10 tasks for the module 'Principles of Data Analytics' - Class of January 2025
 
 
@@ -25,7 +31,7 @@ The Iris dataset is loaded using `sklearn.datasets.load_iris()` and converted in
 2.  **Explore the Data Structure**
 Initial inspection includes checking data types, size, and a preview of the dataset using `df` and `.info()`.
 
-3.  **Summarize the Data**
+3.  **Summarise the Data**
 Descriptive statistics (mean,min,max,standard deviation,median) are generated using `.describe()`
 
 4.  **Visualise Features**
@@ -34,10 +40,10 @@ Used `matplotlib` to create histograms to understand the distribution of each fe
 5.  **Investigate Relationships**
 Created a scatter plot of two features to show relationship between 'petal length (cm)' & 'petal width (cm)'
 
-6.  **Analyze Relationship**
+6.  **Analyse Relationship**
 Use numpy.polyfit to add a regression line to the scatter plot of 'petal length (cm)' & 'petal width (cm)'
 
-7.  **Analyze Class Distributions**
+7.  **Analyse Class Distributions**
 Create box-plots of the petal lengths for each of the three classes using color-coded plots.
 
 8.  **Compute Correlations**
